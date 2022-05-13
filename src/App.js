@@ -75,7 +75,7 @@ function App() {
           autoPlay
           loop
           muted
-          poster="https://assets.codepen.io/6093409/river.jpg"
+          poster="https://images.unsplash.com/photo-1580136579312-94651dfd596d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1317&q=80"
           style={{ height: "80vh", width: "100vw", objectFit: "cover" }}
         >
           <source
